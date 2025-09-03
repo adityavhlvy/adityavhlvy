@@ -83,6 +83,7 @@
   <h3>Here's a snake eating my contributions! 🐍</h3>
   <img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/main/dist/github-snake.svg" alt="Snake Contribution Graph">
 </div>
+
 ---
 
 ### ✨ Just for Fun
