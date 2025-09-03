@@ -10,9 +10,9 @@
   <img src="https://media.tenor.com/bvXwJ4I19ZQAAAAi/cat-cat-meme.gif" width="30" height="30"/>
 </div>
 
-<p align="center">
+<p align="left">
   <em>
-    Fresh graduate with a <b>Bachelor of Computer Science</b> from <b>Pertamina University</b> (GPA 3.58, Cum Laude).<br>
+    Fresh graduate with a <b>Bachelor of Computer Science</b> from <b>Pertamina University</b> (GPA 3.58, passed with honours).<br>
     Passionate about <b>Project Management</b> with additional interests in <b>Data Science, Machine Learning, Web Development, and UI/UX/Graphic Design</b>.<br>
     Adaptable, eager to learn, and driven to solve problems with creativity and efficiency.
   </em> 
@@ -87,10 +87,6 @@
 ---
 
 ### ✨ Just for Fun
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=adityavhlvy&theme=tokyonight" alt="GitHub Skyline">
-</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
