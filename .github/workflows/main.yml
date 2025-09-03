@@ -1,0 +1,43 @@
+# Nama Workflow
+name: Generate Snake Animation
+
+# Pemicu Workflow
+on:
+  # Berjalan otomatis setiap 12 jam
+  schedule:
+    - cron: "0 */12 * * *"
+  # Memungkinkan Anda menjalankan manual dari tab Actions
+  workflow_dispatch:
+
+# Pekerjaan yang akan dilakukan
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Langkah 1: Mengambil kode dari repositori Anda
+      - uses: actions/checkout@v3
+
+      # Langkah 2: Membuat file SVG animasi ular
+      - uses: Platane/snk@v3
+        with:
+          # Username GitHub Anda (otomatis diambil)
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Daftar file output yang akan dibuat
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Langkah 3: Melakukan commit dan push file SVG yang baru dibuat ke repositori
+      - name: Push snake animation
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist
+          # Commit hanya jika ada perubahan pada file di folder dist
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "feat: Generate snake animation"
+            git push
+          fi

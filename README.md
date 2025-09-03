@@ -69,19 +69,20 @@
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityavhlvy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=adityavhlvy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityavhlvy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adityavhlvy&theme=tokyonight&hide_border=true&short_numbers=true&card_width=500&card_height=150" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=adityavhlvy&theme=tokyonight&hide_border=true&short_numbers=true&card_width=500&card_height=150" alt="GitHub Streak">
+  </a>
 </p>
 
 <div align="center">
-  <h3>Here's a snake eating my contributions! 🐍</h3>
-  <img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">
+  <h3>Here's a snake eating my contributions! 🐍</h3>
+  <img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/main/dist/github-snake.svg" alt="Snake Contribution Graph">
 </div>
-
 ---
 
 ### ✨ Just for Fun
