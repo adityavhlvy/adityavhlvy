@@ -53,7 +53,7 @@
 
 <p align="center">
   <strong>🔧 Proficient</strong><br>
-  <em>Technologies I'm comfortable with and have used in various applications.</em><br>
+  <em>Technologies I've used in various applications.</em><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
