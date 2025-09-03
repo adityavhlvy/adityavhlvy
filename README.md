@@ -74,12 +74,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavhlvy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adityavhlvy&theme=tokyonight&hide_border=true&short_numbers=true&card_width=500&card_height=150" alt="GitHub Streak" /></a>
 </p>
 
 <div align="center">
-  <h3>Here's a snake eating my contributions! 🐍</h3>
-  <img src="https://github.com/adityavhlvy/adityavhlvy/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">
+  <h3>Here's a snake eating my contributions! 🐍</h3>
+  <img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">
 </div>
 
 ---
