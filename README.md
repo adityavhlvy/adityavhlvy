@@ -27,9 +27,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityavhlvy&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adityavhlvy&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
