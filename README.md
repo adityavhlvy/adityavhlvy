@@ -14,11 +14,12 @@
   <em>
     Bismillah, perkenalkan saya Adit.
   </em>
-  <em style="text-decoration: line-through;">
+  <br></br>
+  <s>
     Fresh graduate with a <b>Bachelor of Computer Science</b> from <b>Pertamina University</b> (GPA 3.58, passed with honours).<br>
     Passionate about <b>Project Management</b> with additional interests in <b>Data Science, Machine Learning, Web Development, and UI/UX/Graphic Design</b>.<br>
     Adaptable, eager to learn, and driven to solve problems with creativity and efficiency.
-  </em> 
+  </s> 
 </p>
 
 <p align="center">
