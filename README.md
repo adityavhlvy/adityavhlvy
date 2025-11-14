@@ -21,10 +21,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/adityavahlevynugraha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-udah%20dibuka%20belum?-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-udah%20dibuka%20belum%3F-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:adityavahlevy1003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-email%20gua,-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-email%20gua%2C-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
