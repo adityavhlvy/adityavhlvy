@@ -54,10 +54,23 @@ Links (Because Why Not) 🌐
 
 <p>
   <marquee scrollamount="50">
-    ⚡⚡⚡ THIS IS RANDOM QUOTE ⚡⚡⚡
+    ⚡⚡⚡ Random Quote Incoming ⚡⚡⚡
   </marquee>
 </p>
 
-<img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/main/dist/github-snake.svg" style="width:500px; height:200px; transform: rotate(180deg);"/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="border: 5px dashed lime; padding: 10px;"/>
+</p>
+
+<h2 style="color: magenta; font-size: 48px; text-shadow: 2px 2px yellow;">
+🐍 Here’s a snake eating my contributions! 🐍
+</h2>
+
+<img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/main/dist/github-snake.svg" 
+     style="width:500px; height:200px; transform: rotate(180deg) scaleX(-1); border: 5px dotted red;"/>
+
+<p style="color: red; font-size: 28px; background-color: cyan; padding: 10px; border-radius: 15px;">
+🔥 ENJOY THE CHAOS 🔥
+</p>
 
 </div>
