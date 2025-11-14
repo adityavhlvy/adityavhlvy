@@ -5,21 +5,30 @@
   
   <img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="30" height="30"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aditya+Vahlevy+Nugraha;Fresh+Computer+Science+Graduate;Data+Science+%26+ML+Enthusiast;Full-Stack+Web+Developer&center=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+gua+Aditya+Vahlevy+Nugraha;Lulusan+CS+yang+lagi+nganggur;Expert+‘Hello+World'+di+20+bahasa;Gatau+mau+ngapain,+yang+penting+coding&center=true&size=22">
   </a>
   <img src="https://media.tenor.com/bvXwJ4I19ZQAAAAi/cat-cat-meme.gif" width="30" height="30"/>
 </div>
 
-<p align="left">
+<p align="center">
   <em>
-    Bismillah, perkenalkan saya Adit.
-  </em>
-  <br></br>
-  <s>
-    Fresh graduate with a <b>Bachelor of Computer Science</b> from <b>Pertamina University</b> (GPA 3.58, passed with honours).<br>
-    Passionate about <b>Project Management</b> with additional interests in <b>Data Science, Machine Learning, Web Development, and UI/UX/Graphic Design</b>.<br>
-    Adaptable, eager to learn, and driven to solve problems with creativity and efficiency.
-  </s> 
+    <s>Fresh graduate yang serius cari kerja</s><br>
+    🎯 <b>Professional Bug Creator</b> • ⏰ <b>Expert Procrastinator</b> • ☕ <b>Coffee to Code Converter</b><br>
+    Skill utama: Stack Overflow + Copy Paste, kadang bisa bikin program kalo lagi mood<br>
+    Motto: "It works on my machine 🤷‍♂️"
+  </em> 
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/adityavahlevynugraha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-udah%20dibuka%20belum?-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:adityavahlevy1003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-email%20gua,-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-sok%2C%20lagi%20nonton%20tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </p>
 
 <p align="center">
