@@ -3,11 +3,11 @@
     <img src="https://komarev.com/ghpvc/?username=adityavhlvy&style=flat&color=blueviolet" alt="Profile views"/>
   </p>
   
-  <img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="30" height="30"/>
+  <img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="100" height="100"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+gua+Aditya+Vahlevy+Nugraha;Lulusan+CS+yang+lagi+nganggur;Expert+‘Hello+World'+di+20+bahasa&center=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+gua+Aditya+Vahlevy+Nugraha;Lulusan+CS+yang+lagi+[ngga]nganggur;Expert+‘Hello+World'+di+20+bahasa&center=true&size=22">
   </a>
-  <img src="https://media.tenor.com/bvXwJ4I19ZQAAAAi/cat-cat-meme.gif" width="30" height="30"/>
+  <img src="https://media.tenor.com/bvXwJ4I19ZQAAAAi/cat-cat-meme.gif" width="100" height="100"/>
 </div>
 
 <p align="center">
