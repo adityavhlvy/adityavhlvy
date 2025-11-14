@@ -1,90 +1,63 @@
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=adityavhlvy&style=flat&color=blueviolet" alt="Profile views"/>
-  </p>
-  
-  <img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="30" height="30"/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+gua+Aditya+Vahlevy+Nugraha;Lulusan+CS+yang+lagi+nganggur;Expert+‘Hello+World'+di+20+bahasa&center=true&size=22">
-  </a>
-  <img src="https://media.tenor.com/bvXwJ4I19ZQAAAAi/cat-cat-meme.gif" width="30" height="30"/>
-</div>
+<div align="center" style="background-color: yellow; border: 5px dotted red; padding: 20px;">
 
-<p align="center">
-  <em>
-    <s>Fresh graduate yang serius cari kerja</s><br>
-    🎯 <b>Professional Bug Creator</b> • ⏰ <b>Expert Procrastinator</b> • ☕ <b>Coffee to Code Converter</b><br>
-    Skill utama: Stack Overflow + Copy Paste, kadang bisa bikin program kalo lagi mood<br>
-    Motto: "It works on my machine 🤷‍♂️"
-  </em> 
+<h1 style="color: lime; font-family: 'Comic Sans MS', cursive; font-size: 60px; text-shadow: 2px 2px #ff0000;">
+WELCOME TO MY ULTIMATE NIGHTMARE PROFILE 😵‍💫
+</h1>
+
+<p>
+  <marquee behavior="alternate" scrollamount="30" style="color: hotpink; font-size: 40px;">
+    I WRITE CODE, SOMETIMES IT WORKS, SOMETIMES IT DOESN’T!!
+  </marquee>
 </p>
 
-<p align="center">
+<img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="200" height="200"/>
+<img src="https://media.tenor.com/bvXwJ4I19ZQAAAAi/cat-cat-meme.gif" width="200" height="200"/>
+
+<h2 style="background-color: red; color: cyan; padding: 10px; border-radius: 20px;">
+🚀 My “Skills” (Sorta) 🚀
+</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Go-FFFF00?style=for-the-badge&logo=go&logoColor=red">
+  <img src="https://img.shields.io/badge/Next.js-FF4500?style=for-the-badge&logo=nextdotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-00FFFF?style=for-the-badge&logo=vuedotjs&logoColor=red">
+</p>
+
+<h3 style="color: purple; font-size: 50px; text-decoration: underline;">
+💻 My Experience (Sorta Fake) 💻
+</h3>
+
+<ul style="color: orange; font-size: 30px;">
+  <li>Professional Bug Creator 🐞</li>
+  <li>Master of Stack Overflow Copy-Paste 📄</li>
+  <li>Procrastination Overlord ⏰</li>
+  <li>Coffee → Code Converter ☕</li>
+</ul>
+
+<h2 style="background-color: lime; color: red; font-size: 45px; padding: 15px; border: 5px dashed blue;">
+Links (Because Why Not) 🌐
+</h2>
+
+<p>
   <a href="https://linkedin.com/in/adityavahlevynugraha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-udah%20dibuka%20belum%3F-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-COMPLETELY BROKEN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:adityavahlevy1003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-email%20gua%2C-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-MAYBE CHECK IT-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityavhlvy&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-</p> -->
+<h2 style="color: red; font-size: 50px; background-color: black; padding: 10px;">
+💥 RANDOM CHAOS 💥
+</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityavhlvy&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+<p>
+  <marquee scrollamount="50">
+    ⚡⚡⚡ THIS IS RANDOM QUOTE ⚡⚡⚡
+  </marquee>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/main/dist/github-snake.svg" style="width:500px; height:200px; transform: rotate(180deg);"/>
 
-### 💻 Tech Stack & Skills
-
-<p align="left">
-  <strong>🚀 Tech Stack Favorit???</strong><br>
-  <em>Yang beneran dipake pake, bukan cuma tempel doang</em><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go (Fiber)">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-
-<p align="left">
-  <strong>🔧 Pernah Nyoba</strong><br>
-  <em>Bisa pake, tapi mungkin lupa syntaxnya</em><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-</p>
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=adityavhlvy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityavhlvy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=adityavhlvy&theme=tokyonight&hide_border=true&short_numbers=true&card_width=500&card_height=150" alt="GitHub Streak">
-  </a>
-</p> -->
-
-<div align="center">
-  <h3>Here's a snake eating my contributions! 🐍</h3>
-  <img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/main/dist/github-snake.svg" alt="Snake Contribution Graph">
 </div>
-
----
-
-### ✨ Just for Fun
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
-</p>
