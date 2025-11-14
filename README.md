@@ -5,7 +5,7 @@
   
   <img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="30" height="30"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+gua+Aditya+Vahlevy+Nugraha;Lulusan+CS+yang+lagi+nganggur;Expert+‘Hello+World'+di+20+bahasa;Gatau+mau+ngapain,+yang+penting+coding&center=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+gua+Aditya+Vahlevy+Nugraha;Lulusan+CS+yang+lagi+nganggur;Expert+‘Hello+World'+di+20+bahasa&center=true&size=22">
   </a>
   <img src="https://media.tenor.com/bvXwJ4I19ZQAAAAi/cat-cat-meme.gif" width="30" height="30"/>
 </div>
