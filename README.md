@@ -1,10 +1,10 @@
 <div align="center">
   <!-- HEADER IMAGE: Aesthetic Night City / JDM Vibe -->
-  <div style="height: 100px; overflow: hidden; border-radius: 4px;">
-    <img
+  <div align="center" style="height: 100px; overflow: hidden; border-radius: 4px;">
+    <img 
       src="assets/e8456d0029f1a01e5bdd103549599138.gif"
-      style="width: 100%; height: 100%; object-fit: cover;"
-      alt="Aesthetic Banner"
+      width="100%"
+      style="object-fit: cover;"
     />
   </div>
 
@@ -122,12 +122,14 @@ const aditya = {
 ---
 
 <div align="center">
-  <div style="height: 100px; overflow: hidden; border-radius: 4px;">
+  <div align="center" style="height: 100px; overflow: hidden; border-radius: 4px;">
     <img 
       src="assets/b039e3faf7cc027b06e61926c6d7c7e6.gif" 
-      style="width: 100%; height: 100%; object-fit: cover;" 
+      width="100%"
+      style="object-fit: cover;"
     />
   </div>
+
   <br>
 
   <p align="center" style="font-family: monospace; display: inline-block; text-align: center;">
