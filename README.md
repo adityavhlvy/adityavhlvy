@@ -1,7 +1,13 @@
 <div align="center">
   <!-- HEADER IMAGE: Aesthetic Night City / JDM Vibe -->
-  <img src="assets/e8456d0029f1a01e5bdd103549599138.gif" width="100%" style="height: 100px; width: 100%; object-fit: cover; border-radius: 4px;" alt="Aesthetic Banner"/>
-  
+  <div style="height: 100px; overflow: hidden; border-radius: 4px;">
+    <img
+      src="assets/e8456d0029f1a01e5bdd103549599138.gif"
+      style="width: 100%; height: 100%; object-fit: cover;"
+      alt="Aesthetic Banner"
+    />
+  </div>
+
   <h1 align="center">Aditya Vahlevy Nugraha <span style="font-size: 0.5em; color: #8b949e;">(aka kuraninja)</span></h1>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2500&pause=250&color=F5DBDB&center=true&vCenter=true&random=true&width=435&lines=specialist+in+generalist;fullstack+developer+wannabe;jack+of+all+the+stacks%2C+master+of+none;trying+to+be+fullstack;ending+up+full-stuck" alt="Typing SVG" /></a>
@@ -41,13 +47,10 @@
   [![Spotify](https://spotify-badge-by-novatorem-hkn9.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/xu97h5ah78wnivg1ra7etg2wu)
 
   <!-- Fallback Spotify Profile -->
-  <br>
   <a href="https://open.spotify.com/user/adityavhlvy">
     <img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </div>
-
----
 
 ---
 
@@ -119,8 +122,13 @@ const aditya = {
 ---
 
 <div align="center">
-  <img src="assets/b039e3faf7cc027b06e61926c6d7c7e6.gif" style="height: 100px; width: 100%; object-fit: cover; border-radius: 4px;"/>
-  <br><br>
+  <div style="height: 100px; overflow: hidden; border-radius: 4px;">
+    <img 
+      src="assets/b039e3faf7cc027b06e61926c6d7c7e6.gif" 
+      style="width: 100%; height: 100%; object-fit: cover;" 
+    />
+  </div>
+  <br>
 
   <p align="center" style="font-family: monospace; display: inline-block; text-align: center;">
     <span style="vertical-align: middle;">Thanks for dropping by! 🙇‍♂️</span>
