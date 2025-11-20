@@ -1,12 +1,10 @@
 <div align="center">
   <!-- HEADER IMAGE: Aesthetic Night City / JDM Vibe -->
-  <div align="center" style="height: 100px; overflow: hidden; border-radius: 4px;">
-    <img 
-      src="assets/e8456d0029f1a01e5bdd103549599138.gif"
-      width="100%"
-      style="object-fit: cover;"
-    />
-  </div>
+  <img 
+    src="assets/e8456d0029f1a01e5bdd103549599138-ezgif.com-crop.gif"
+    width="100%"
+    alt="Banner"
+  />
 
   <h1 align="center">Aditya Vahlevy Nugraha <span style="font-size: 0.5em; color: #8b949e;">(aka kuraninja)</span></h1>
 
@@ -122,13 +120,11 @@ const aditya = {
 ---
 
 <div align="center">
-  <div align="center" style="height: 100px; overflow: hidden; border-radius: 4px;">
-    <img 
-      src="assets/b039e3faf7cc027b06e61926c6d7c7e6.gif" 
-      width="100%"
-      style="object-fit: cover;"
-    />
-  </div>
+  <img 
+    src="assets/b039e3faf7cc027b06e61926c6d7c7e6-ezgif.com-crop.gif" 
+    width="100%" 
+    alt="Banner"
+  />
 
   <br>
 
