@@ -1,89 +1,137 @@
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=adityavhlvy&style=flat&color=blueviolet" alt="Profile views"/>
-  </p>
+  <!-- HEADER IMAGE: Aesthetic Night City / JDM Vibe -->
+  <img src="https://i.pinimg.com/originals/e8/45/6d/e8456d0029f1a01e5bdd103549599138.gif" width="100%" style="height: 200px; width: 100%; object-fit: cover; border-radius: 4px;" alt="Aesthetic Banner"/>
   
-  <img src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" width="100" height="100"/>
+  <h1 align="center">Aditya Vahlevy Nugraha <span style="font-size: 0.5em; color: #8b949e;">(aka kuraninja)</span></h1>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Halo,+gua+Aditya+Vahlevy+Nugraha;Lulusan+CS+yang+lagi+[ngga]nganggur;Expert+‘Hello+World'+di+20+bahasa&center=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&duration=1000&pause=250&color=000000&center=true&vCenter=true&random=true&width=435&lines=lorem+ipsum+lima+kali;fullstack+developer+(wannabe);specialist+in+generalist" alt="Typing SVG" />
   </a>
-  <img src="https://media.tenor.com/bvXwJ4I19ZQAAAAi/cat-cat-meme.gif" width="100" height="100"/>
+
+  <p align="center">
+    <b>"Code like a turtle, vibing like a ninja."</b>
+  </p>
+
+  <p align="center">
+    <em>
+      <s>Fresh graduate yang serius cari kerja</s><br>
+      🎯 <b>Professional Bug Creator</b> • ⏰ <b>Expert Procrastinator</b> • ☕ <b>Coffee to Code Converter</b><br>
+      // Skill utama: Stack Overflow + Copy Paste, kadang bisa kadang gila // Motto: "It works on me 🤷‍♂️" //
+    </em>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/adityavahlevynugraha/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:adityavahlevy1003@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://instagram.com/adityavhlvy" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
 </div>
 
-<p align="center">
-  <em>
-    <s>Fresh graduate yang serius cari kerja</s><br>
-    🎯 <b>Professional Bug Creator</b> • ⏰ <b>Expert Procrastinator</b> • ☕ <b>Coffee to Code Converter</b><br>
-    Skill utama: Stack Overflow + Copy Paste, kadang bisa bikin program kalo lagi mood<br>
-    Motto: "It works on my machine 🤷‍♂️"
-  </em> 
-</p>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/adityavahlevynugraha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-udah%20dibuka%20belum%3F-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="center"> 
+  
+  ### 🎧 Current Vibe
+
+  <!-- Spotify Integration -->
+  [![Spotify](https://spotify-badge-by-novatorem-hkn9.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/xu97h5ah78wnivg1ra7etg2wu)
+
+  <!-- Fallback Spotify Profile -->
+  <br>
+  <a href="https://open.spotify.com/user/adityavhlvy">
+    <img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
-  <a href="mailto:adityavahlevy1003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-email%20gua%2C-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityavhlvy&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityavhlvy&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+</div>
 
 ---
 
-### 💻 Tech Stack & Skills
-
-<p align="left">
-  <strong>🚀 Tech Stack Favorit???</strong><br>
-  <em>Yang beneran dipake pake, bukan cuma tempel doang</em><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go (Fiber)">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-
-<p align="left">
-  <strong>🔧 Pernah Nyoba</strong><br>
-  <em>Bisa pake, tapi mungkin lupa syntaxnya</em><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-</p>
-
 ---
 
-### 📊 My GitHub Stats & Activity
+### ⛩️ About Me
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=adityavhlvy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityavhlvy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+```javascript
+const aditya = {
+  role: "Fullstack Developer",
+  level: "Junior (Grinding XP)",
+  passiveSkills: ["Procrastination", "Binge Watching", "Bug Creating"],
+  buffs: ["Coffee", "Lofi Hip Hop", "Deadline Panic"],
+  debuffs: ["Sunlight", "Social Interaction", "Merge Conflicts"],
+  motto: "If it works, don't touch it. If it breaks, blame the compiler."
+};
+```
 
-<!-- <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=adityavhlvy&theme=tokyonight&hide_border=true&short_numbers=true&card_width=500&card_height=150" alt="GitHub Streak">
-  </a>
-</p> -->
+### 🛠️ Tech Stack
 
 <div align="center">
-  <h3>Here's a snake eating my contributions! 🐍</h3>
-  <img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/main/dist/github-snake.svg" alt="Snake Contribution Graph">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
 </div>
 
 ---
 
-### ✨ Just for Fun
+### 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityavhlvy&show_icons=true&theme=midnight-dusk&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityavhlvy&layout=compact&theme=midnight-dusk&hide_border=true&bg_color=000000" height="180" alt="Langs" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityavhlvy&theme=midnight-dusk&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adityavhlvy/adityavhlvy/main/dist/github-snake.svg" alt="Snake Contribution Graph" width="100%">
+</div>
+
+---
+
+<div align="center" style="
+  width: auto;
+  max-width: auto;
+  height: 130px;
+  overflow: hidden;
+  border-radius: 8px;
+  padding: 6px;">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quoteColor=00eaff&authorColor=b400ff&symbolColor=ff1a1a&backgroundColor=000000"
+    style="width: auto; height: auto;"
+  />
+</div>
+
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/b0/39/e3/b039e3faf7cc027b06e61926c6d7c7e6.gif" style="height: 200px; width: 100%; object-fit: cover; border-radius: 4px;"/>
+  <br><br>
+
+  <p align="center" style="font-family: monospace; display: inline-block; text-align: center;">
+    <span style="vertical-align: middle;">Thanks for dropping by! 🙇‍♂️</span>
+    &nbsp;&nbsp;
+    <img 
+      src="https://komarev.com/ghpvc/?username=adityavhlvy&style=flat&color=blueviolet" 
+      alt="Profile views" 
+      style="vertical-align: middle;"
+    />
+  </p>
+  
+</div>
