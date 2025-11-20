@@ -1,12 +1,10 @@
 <div align="center">
   <!-- HEADER IMAGE: Aesthetic Night City / JDM Vibe -->
-  <img src="https://i.pinimg.com/originals/e8/45/6d/e8456d0029f1a01e5bdd103549599138.gif" width="100%" style="height: 200px; width: 100%; object-fit: cover; border-radius: 4px;" alt="Aesthetic Banner"/>
+  <img src="assets/e8456d0029f1a01e5bdd103549599138.gif" width="100%" style="height: 100px; width: 100%; object-fit: cover; border-radius: 4px;" alt="Aesthetic Banner"/>
   
   <h1 align="center">Aditya Vahlevy Nugraha <span style="font-size: 0.5em; color: #8b949e;">(aka kuraninja)</span></h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=&duration=1000&pause=250&color=000000&center=true&vCenter=true&random=true&width=435&lines=lorem+ipsum+lima+kali;fullstack+developer+(wannabe);specialist+in+generalist" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2500&pause=250&color=F5DBDB&center=true&vCenter=true&random=true&width=435&lines=specialist+in+generalist;fullstack+developer+wannabe;jack+of+all+the+stacks%2C+master+of+none;trying+to+be+fullstack;ending+up+full-stuck" alt="Typing SVG" /></a>
 
   <p align="center">
     <b>"Code like a turtle, vibing like a ninja."</b>
@@ -121,7 +119,7 @@ const aditya = {
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b0/39/e3/b039e3faf7cc027b06e61926c6d7c7e6.gif" style="height: 200px; width: 100%; object-fit: cover; border-radius: 4px;"/>
+  <img src="assets/b039e3faf7cc027b06e61926c6d7c7e6.gif" style="height: 100px; width: 100%; object-fit: cover; border-radius: 4px;"/>
   <br><br>
 
   <p align="center" style="font-family: monospace; display: inline-block; text-align: center;">
